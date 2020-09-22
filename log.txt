@@ -1,0 +1,40 @@
+Catalog "os4" was not exist and was created
+Session start: Sat Nov 02 07:01:33 MSK 2019
+Beginning creating file файл1
+New file файл1 was successfully created
+Beginning creating file файл2
+New file файл2 was successfully created
+Beginning creating file файл3
+New file файл3 was successfully created
+Session end: Sat Nov 02 07:01:50 MSK 2019
+
+Session start: Sat Nov 02 07:01:53 MSK 2019
+File файл2 was successfully opened
+File файл2 was successfully saved
+File файл2 was successfully opened
+File файл2 was successfully saved
+Session end: Sat Nov 02 07:02:05 MSK 2019
+
+Log was recreated after removing
+Catalog "os4" was restored after the removal from the outside
+Session start: Sat Nov 02 07:02:42 MSK 2019
+Log was restored after outside changing
+System's files was changed from the outside and successfully restored
+Beginning creating file файл4
+Program was crushed
+Program crash has been fixed
+New file файл4 was successfully created
+Session end: Sat Nov 02 07:03:52 MSK 2019
+
+Session start: Sat Nov 02 07:03:52 MSK 2019
+Beginning deleting file файл4
+Program was crushed
+Program crash has been fixed
+File файл4 was successfully deleted
+Session end: Sat Nov 02 07:04:02 MSK 2019
+
+Session start: Sat Nov 02 07:04:02 MSK 2019
+File файл3 was successfully opened
+File файл3 was successfully saved
+Session end: Sat Nov 02 07:04:34 MSK 2019
+
